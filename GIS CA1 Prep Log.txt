@@ -7,9 +7,20 @@ Build Shell project
 Set up Map Printout with above Images
 Set up Text for Info Box
 Set up text for title
-Trial QR code with dummy file
 Set up Phillipines Video for Rasta contour stuff
 Set up California Video for Print layout stuff
 Setup Sweden video for road contours stuff
-set up OGIS manual 
+Set up OGIS manual 
+Check plug-in from California video
+Check plug-in from Sweden video
+Put snapping on
+
+
+
+
+For ref:-https://freesvg.org/vector-clip-art-of-colored-celtic-tree
+
+
+
+
 
